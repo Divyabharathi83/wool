@@ -1,0 +1,171 @@
+.containeremp{
+  display: flex;
+  height:fit-content;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(223, 223, 223);
+  font-family: "Poppins", sans-serif !important;
+}
+.profileCard {
+  background-color:rgb(60, 59, 59);
+  border-radius: 10px;
+  border:2px solid black;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  padding: 0px 70px 0px 70px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  height: fit-content;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.profileHeader {
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 10px;
+  border-radius: 0px 0px 20px 20px;
+  /* background-color: black; */
+}
+
+
+.profileIcon {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin: 0 auto 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.profileIcon i {
+  font-size: 50px;
+}
+
+.profileInfo {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.profileInfo label {
+  margin-right: 10px;
+  font-family: "Poppins", sans-serif !important;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.profileInfo {
+  flex: 1;
+  border: none;
+  color:black;
+   font-size: 13px;
+  padding: 4px;
+  transition: border-color 0.3s ease;
+}
+
+.profileInfo input[type="text"]:focus,
+.profileInfo input[type="password"]:focus,
+.profileInfo input[type="email"]:focus {
+  border-color: #FFCD00;
+  color:black;
+  font-size: 14px;
+}
+
+.socialLinks {
+  padding:10px;
+  text-align: center;
+}
+
+.socialLinks a {
+  color: black;
+  margin: 0 5px;
+  font-size: 20px;
+}
+
+.socialLinks a:hover {
+  border-color: #FFCD00;
+}
+
+#fileInput {
+  display: none;
+}
+
+
+.modal {
+  display: block;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.7);
+}
+
+.modalContent {
+  background-color: #fefefe;
+  margin: 10% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.imageGallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+}
+
+.imageGallery img {
+  width: 100%;
+  height: 70%;
+  cursor: pointer;
+}
+
+.imageGallery img:hover {
+  border: 2px solid #333;
+}
+
+.changevisible{
+  width: 2%;
+  margin-left: 10%;
+  height: 5%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.selldeals{
+  display: flex;
+  background-color: rgb(223, 223, 223);
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+.selldeals p{
+  font-size: 20px;
+  color: black;
+}

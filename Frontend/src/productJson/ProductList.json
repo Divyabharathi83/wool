@@ -1,0 +1,130 @@
+[
+    { 
+        "category": "Dress", 
+        "productName": "Woolen Sweater", 
+        "productDes": "A cozy woolen sweater perfect for cold weather.", 
+        "productPrice": "4,199", 
+        "productQuantity": "100", 
+        "productPreview": "https://images.unsplash.com/photo-1484399172022-72a90b12e3c1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    { 
+        "category": "Accessories", 
+        "productName": "Wool Scarf", 
+        "productDes": "A soft and warm wool scarf for stylish layering.", 
+        "productPrice": "1,499", 
+        "productQuantity": "200", 
+        "productPreview": "https://img.freepik.com/free-photo/closeup-stack-knitted-sweaters-with-autumn-leaves_169016-48620.jpg?t=st=1729964606~exp=1729968206~hmac=fe135fe731f5a52ac175ac95756b7c50c736e2411ceb808f1013ee873d52846a&w=1060" 
+    },
+    { 
+        "category": "Gift Items", 
+        "productName": "Wool Blanket", 
+        "productDes": "A plush wool blanket for ultimate comfort.", 
+        "productPrice": "6,999", 
+        "productQuantity": "150", 
+        "productPreview": "https://images.unsplash.com/photo-1555480320-b9fa01a86dd8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    { 
+        "category": "All", 
+        "productName": "Wool Beanie", 
+        "productDes": "A stylish wool beanie to keep your head warm.", 
+        "productPrice": "1,199", 
+        "productQuantity": "250", 
+        "productPreview": "https://images.unsplash.com/photo-1714240991123-3172ba3c0c46?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    { 
+        "category": "Dress", 
+        "productName": "Wool Cardigan", 
+        "productDes": "A comfortable wool cardigan for layering.", 
+        "productPrice": "4,999", 
+        "productQuantity": "80", 
+        "productPreview": "https://images.unsplash.com/photo-1555480320-b9fa01a86dd8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    { 
+        "category": "Accessories", 
+        "productName": "Wool Mittens", 
+        "productDes": "Warm mittens made from high-quality wool.", 
+        "productPrice": "2,199", 
+        "productQuantity": "120", 
+        "productPreview": "https://img.freepik.com/free-photo/close-up-gift-box-details-festive-christmas-decor-knitted-elements-blurred-background-with-bokeh_169016-14760.jpg?t=st=1729965210~exp=1729968810~hmac=813db66ec75f802f50bd3bd017eba800e4ca75d0ae7d832d6bd1b176aa86b15f&w=1060" 
+    },
+    { 
+        "category": "Gift Items", 
+        "productName": "Wool Throw", 
+        "productDes": "A decorative wool throw for your couch.", 
+        "productPrice": "3,199", 
+        "productQuantity": "60", 
+        "productPreview": "https://images.unsplash.com/photo-1617625327342-3475ae1135bf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    { 
+        "category": "All", 
+        "productName": "Wool Socks", 
+        "productDes": "Soft wool socks to keep your feet warm.", 
+        "productPrice": "699", 
+        "productQuantity": "300", 
+        "productPreview": "https://img.freepik.com/free-photo/close-up-gift-box-details-festive-christmas-decor-knitted-elements-blurred-background-with-bokeh_169016-14760.jpg?t=st=1729965210~exp=1729968810~hmac=813db66ec75f802f50bd3bd017eba800e4ca75d0ae7d832d6bd1b176aa86b15f&w=1060" 
+    },
+    { 
+        "category": "Dress", 
+        "productName": "Wool Dress", 
+        "productDes": "Elegant wool dress for special occasions.", 
+        "productPrice": "7,499", 
+        "productQuantity": "50", 
+        "productPreview": "https://images.unsplash.com/photo-1545153413-09f4f7f91a94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    { 
+        "category": "Accessories", 
+        "productName": "Wool Headband", 
+        "productDes": "Fashionable wool headband for warmth.", 
+        "productPrice": "1,099", 
+        "productQuantity": "200", 
+        "productPreview": "https://img.freepik.com/free-photo/knitting-close-up-blue-threads-table_144627-47496.jpg?t=st=1729964714~exp=1729968314~hmac=72b07c095e1109dfaec5eba84ee5b52474c53cd39b9ffc09cc6f0b6e2549aa7e&w=826" 
+    },
+    { 
+        "category": "Gift Items", 
+        "productName": "Wool Stuffed Animal", 
+        "productDes": "Cute stuffed animal made from soft wool.", 
+        "productPrice": "2,499", 
+        "productQuantity": "70", 
+        "productPreview": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    { 
+        "category": "All", 
+        "productName": "Wool Rug", 
+        "productDes": "Beautiful handwoven wool rug.", 
+        "productPrice": "11,999", 
+        "productQuantity": "30", 
+        "productPreview": "https://img.freepik.com/free-photo/closeup-stack-knitted-sweaters-with-autumn-leaves_169016-48620.jpg?t=st=1729964606~exp=1729968206~hmac=fe135fe731f5a52ac175ac95756b7c50c736e2411ceb808f1013ee873d52846a&w=1060" 
+    },
+    { 
+        "category": "Dress", 
+        "productName": "Wool Turtleneck", 
+        "productDes": "A stylish wool turtleneck for colder days.", 
+        "productPrice": "3,999", 
+        "productQuantity": "90", 
+        "productPreview": "https://images.unsplash.com/photo-1555480320-b9fa01a86dd8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    { 
+        "category": "Accessories", 
+        "productName": "Wool Bag", 
+        "productDes": "A stylish wool bag for everyday use.", 
+        "productPrice": "2,999", 
+        "productQuantity": "110", 
+        "productPreview": "https://images.unsplash.com/photo-1670141829331-10d46c202119?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    { 
+        "category": "Gift Items", 
+        "productName": "Wool Coasters", 
+        "productDes": "Set of coasters made from high-quality wool.", 
+        "productPrice": "999", 
+        "productQuantity": "200", 
+        "productPreview": "https://images.unsplash.com/photo-1446071712646-f049f6f30f93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    { 
+        "category": "All", 
+        "productName": "Wool Shawl", 
+        "productDes": "Elegant shawl made from premium wool.", 
+        "productPrice": "5,499", 
+        "productQuantity": "40", 
+        "productPreview": "https://images.unsplash.com/photo-1595026525047-dfa997df8a4a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    }
+]

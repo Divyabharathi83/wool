@@ -1,0 +1,151 @@
+/* WoolBuyPopup.css */
+
+.popup-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.top{
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+.ttop1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* width: fit-content;
+  height: fit-content; */
+}
+.ttop1 img{
+  display: flex;
+  width: 50px;
+  height: 50px;
+}
+.popup-content {
+  display: flex;
+  background-color: #fff;
+  padding: 75px 30px 20px 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Drop shadow effect */
+  width: 80%;
+  max-height: 80vh; /* Maximum height of the popup content */
+  overflow-y: auto; /* Enable vertical scroll when content exceeds viewport height */
+  align-items: center;
+  gap: 20px;
+}
+
+.popup-img {
+  width: 100%;
+  max-width: 300px; /* Adjust the maximum width of the image */
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.popup-details {
+  margin-top: 10px;
+  display: flex;
+  height: fit-content;
+  flex-direction: column;
+  height: 70vh;
+}
+
+.popup-details h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.popup-details p {
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+
+.popup-details button {
+  background-color: black; /* Blue button color */
+  color: #ffffff; /* Text color */
+  padding: 10px 20px;
+  border: none;
+  display: flex;
+  width: fit-content;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.popup-details button:hover {
+  background-color: #FFCD00;
+  color: black; /* Darker blue on hover */
+}
+
+.avai{
+  display: flex;
+  align-items: center;
+  /* padding: 2px; */
+  border: 2px solid green;
+  border-radius: 4px;
+  justify-content: center;
+  width: fit-content;
+  padding: 5px;
+  height: 10%;
+}
+.avai p{
+  font-size: 20px;
+  font-weight: bold;
+  color: green;
+  /* padding: 10px; */
+}
+.mon p{
+  font-size: 25px;
+  font-weight: bold;
+  color: red;
+}
+
+.quantity-control {
+  display: flex;
+  align-items: center;
+}
+
+.quantity-control button {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border: none;
+  cursor: pointer;
+}
+
+.quantity-control span {
+  margin: 0 10px;
+  font-size: 18px;
+}
+/* 
+.popup {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  z-index: 9999;
+}
+
+.popup.show {
+  display: block;
+}
+
+.popup.success {
+  background-color: #4CAF50;
+}
+
+.popup.error {
+  background-color: #f44336;
+} */
